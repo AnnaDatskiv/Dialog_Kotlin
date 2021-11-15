@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LessonAboutDialog</string>
+    <string name="click_on_me">Click on me</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="back">Назад</string>
+    <string name="title">Уважаемый пользователь!</string>
+    <string name="ask">Вы уверены?</string>
+</resources>
